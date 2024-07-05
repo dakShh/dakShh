@@ -3,8 +3,8 @@
 My 2 years of experience as Full Stack Developer has equipped me with a strong foundation in programming and problem‑solving. Now, I’m ready to bridge the gap by transitioning into a Machine Learning Engineer role. I’m actively learning machine learning concepts and eager to contribute to projects that utilize data to drive innovation.
 
 * 🌍  I'm based in Toronto, ON
-* ✉️  You can contact me at [dakshkhatri.work@gmail.com](mailto:dakshkhatri.work@gmail.com)
 * 🧠  I'm learning LLMs and Gen AI
+* ✉️  You can contact me at [dakshkhatri.work@gmail.com](mailto:dakshkhatri.work@gmail.com)
 
 ## 💻 Tech Stack:
 - ![JavaScript](https://img.shields.io/badge/javascript-%23121011.svg?style=for-the-badge&logo=javascript) 
