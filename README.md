@@ -7,7 +7,7 @@ As a student researcher at Centennial Innovates, I delved into the exciting worl
 With a strong foundation in technologies like React, TypeScript, Node.js, and MongoDB, I'm equipped to tackle complex challenges and deliver exceptional results. Whether it's optimizing web application performance or crafting intuitive user interfaces, I'm always eager to learn and grow my skills.
 
 * 🌍  I'm based in Toronto, ON
-* 🧠  I'm currently working as a student research for Centennial college in IoT
+* 🧠  I'm currently working as a Student Research for Centennial college
 * ✉️  You can contact me at [dakshkhatri.work@gmail.com](mailto:dakshkhatri.work@gmail.com)
 
 ## 💻 Tech Stack:
