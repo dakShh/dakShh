@@ -1,9 +1,13 @@
 <h1>Hi👋, I'm Daksh Khatri</h1> 
 
-My 2 years of experience as Full Stack Developer has equipped me with a strong foundation in programming and problem‑solving. Now, I’m ready to bridge the gap by transitioning into a Machine Learning Engineer role. I’m actively learning machine learning concepts and eager to contribute to projects that utilize data to drive innovation.
+Passionate full-stack developer driven by innovation and a commitment to creating impactful solutions. With 2.5+ years of experience in designing and building scalable web applications. My expertise spans front-end and back-end development, with a focus on delivering exceptional user experiences and optimizing application performance. 
+
+As a student researcher at Centennial Innovates, I delved into the exciting world of IoT, integrating RESTful APIs to process sensory data and design a dynamic parking system. My volunteer work at HealthiAi allowed me to contribute to cutting-edge AI projects, solidifying my understanding of MERN stack development.
+
+With a strong foundation in technologies like React, TypeScript, Node.js, and MongoDB, I'm equipped to tackle complex challenges and deliver exceptional results. Whether it's optimizing web application performance or crafting intuitive user interfaces, I'm always eager to learn and grow my skills.
 
 * 🌍  I'm based in Toronto, ON
-* 🧠  I'm learning LLMs and Gen AI
+* 🧠  I'm currently working as a student research for Centennial college in IoT
 * ✉️  You can contact me at [dakshkhatri.work@gmail.com](mailto:dakshkhatri.work@gmail.com)
 
 ## 💻 Tech Stack:
